@@ -2,7 +2,6 @@ import logo from "../assets/Navlog.png";
 import {FaLinkedin} from "react-icons/fa";
 import {FaGithub} from "react-icons/fa";
 import {FaHackerrank} from "react-icons/fa";
-import {FaInstagram} from "react-icons/fa";
 
 const Navbar = () => {
   return (
