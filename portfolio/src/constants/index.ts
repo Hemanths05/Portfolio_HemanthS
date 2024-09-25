@@ -1,4 +1,3 @@
-import { MdDescription } from "react-icons/md";
 import hms from "../assets/hms.jpeg";
 import IOT from "../assets/IOT.jpeg";
 import face from "../assets/face.jpeg";
