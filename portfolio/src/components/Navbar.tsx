@@ -19,7 +19,7 @@ const Navbar = () => {
             <a href="https://www.hackerrank.com/profile/hemanthsiet05" target="_blank" >
             <FaHackerrank/>
             </a>
-            <a href="https://leetcode.com/u/PRUZirrN7u/" target="_blank">
+            <a className="flex flex-shrink-0 " href="https://leetcode.com/u/PRUZirrN7u/" target="_blank">
             <img  width={24} height={24} src="https://leetcode.com/favicon.ico"
              alt="LeetCode"/>
             </a>
