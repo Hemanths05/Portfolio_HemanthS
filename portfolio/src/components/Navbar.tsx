@@ -2,7 +2,7 @@ import logo from "../assets/Navlog.png";
 import {FaLinkedin} from "react-icons/fa";
 import {FaGithub} from "react-icons/fa";
 import {FaHackerrank} from "react-icons/fa";
-
+import { SiLeetcode } from "react-icons/si";
 const Navbar = () => {
   return (
     <nav className="mb-20 flex items-center justify-between py-6 ">
@@ -19,9 +19,8 @@ const Navbar = () => {
             <a href="https://www.hackerrank.com/profile/hemanthsiet05" target="_blank" >
             <FaHackerrank/>
             </a>
-            <a className="flex flex-shrink-0 " href="https://leetcode.com/u/PRUZirrN7u/" target="_blank">
-            <img  width={24} height={24} src="https://leetcode.com/favicon.ico"
-             alt="LeetCode"/>
+            <a href="https://leetcode.com/u/PRUZirrN7u/" target="_blank">
+            <SiLeetcode/>
             </a>
         </div>
     </nav>
