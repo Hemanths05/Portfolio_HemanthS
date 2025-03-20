@@ -19,7 +19,7 @@ const Navbar = () => {
             <a href="https://www.hackerrank.com/profile/hemanthsiet05" target="_blank" >
             <FaHackerrank/>
             </a>
-            <a href="https://leetcode.com/u/PRUZirrN7u/" target="_blank">
+            <a href="https://leetcode.com/u/HemanthS_05/" target="_blank">
             <SiLeetcode/>
             </a>
         </div>
